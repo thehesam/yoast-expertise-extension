@@ -13,12 +13,12 @@ Fact-Checker Recognition: Credit the diligent work of fact-checkers by adding sp
 
 Citation Management: Easily manage and display article sources with user-friendly citation fields, bolstering the transparency and reliability of your content.
 
-New Update  (October 2023):
+## New Update  (October 2023):
 
-Bug Fix: Resolved an issue where user data was not saving correctly, ensuring that user data now saves without any problems.
-New Features:
+*Bug Fix*: Resolved an issue where user data was not saving correctly, ensuring that user data now saves without any problems.
+*New Features*:
 Added two additional fields for storing extra links in the user's schema, providing more flexibility and customization options.
-Introduced the alternateName property for users, enhancing the user schema with an alternate name field, improving user profile completeness and SEO.
+Added the 'alternateName' property for users, enhancing the user schema with an alternate name field, improving user profile completeness and SEO.
 
 Enhanced Schema Data: The extension seamlessly integrates with Yoast SEO, enriching the schema generated for posts, pages, and users, which can lead to improved search engine visibility and user engagement.
 
